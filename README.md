@@ -11,6 +11,8 @@
 
 Create interactive HTML5 pages with a script from a recorded conversation. Powered by Deepgram. Requires API key from Deepgram. Submission for Deepgram+DEV hackathon, 2022.
 
+Yout might want to read the [submission post](https://dev.to/miguelmj/hackathon-submission-interactive-conversation-scripts-for-language-learning-110c), where you will also find a demo.
+        
 ## Get the API key
 - Deepgram (required): Create an account in deepgram.com and get an API key.
 
